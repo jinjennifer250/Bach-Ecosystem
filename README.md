@@ -22,3 +22,4 @@ The ecosystem model captures a real feature of Bach's music: the tonic triad is 
 - `Bach and the Ecosystem.pdf` — full research report
 - `One Pager.pdf` — one-page summary
 - `result_848.png`, `result_565.png`, `result_861.png`, `result_855.png`, `result_784.png`, `result_772.png` — simulation output charts
+- `bwv861.mid`, `bwv848.mid`, `bwv855.mid`, `bwv784.mid`, `bwv772.mid`, `bwv565.mid` — MIDI files used for analysis. Obtained from the Mutopia Project (https://www.mutopiaproject.org), which provides public domain and Creative Commons licensed sheet music.
