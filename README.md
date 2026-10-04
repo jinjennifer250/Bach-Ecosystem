@@ -19,6 +19,6 @@ The ecosystem model captures a real feature of Bach's music: the tonic triad is 
 ## Files
 
 - `main.py` — the simulation code
-- `Bach and the Ecosystem.pdf` — full research report
-- `One Pager.pdf` — one-page summary
+- `Bach_and_the_Ecosystem.pdf` — full research report
+- `One_Pager.pdf` — one-page summary
 - `result_848.png`, `result_565.png`, `result_861.png`, `result_855.png`, `result_784.png`, `result_772.png` — simulation output charts
