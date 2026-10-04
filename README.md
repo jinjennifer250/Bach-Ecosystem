@@ -1,6 +1,6 @@
 # Bach and the Ecosystem
 
-A computational study of pitch-class competition in six Bach works.
+A Computational Study of Pitch-Class Competition in Six Bach Works.
 
 ## The Question
 
@@ -21,4 +21,4 @@ The ecosystem model captures a real feature of Bach's music: the tonic triad is 
 - `main.py` — the simulation code
 - `Bach_and_the_Ecosystem.pdf` — full research report
 - `One_Pager.pdf` — one-page summary
-- `result_*.png` — simulation output charts
+- `result_848.png`,`result_565.png`,`result_861.png`,`result_855.png`,`result_784.png`,`result_772.png` — simulation output charts
